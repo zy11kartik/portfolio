@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "yemon",
+			"path": "../../Documents/GitHub/yemon"
+		},
+		{
+			"name": "html-css-js-portfolio-tutorial-2-main",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html-css-js-portfolio-tutorial-2-main",
+		"liveServer.settings.port": 5501
+	}
+}
